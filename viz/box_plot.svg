@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 805 600">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-9, .cls-10, .cls-13 {
+        stroke-dasharray: 0 4;
+      }
+
+      .cls-1, .cls-15, .cls-12 {
+        stroke: #fedd8d;
+      }
+
+      .cls-16 {
+        fill: #fedd8d;
+      }
+
+      .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22 {
+        stroke-width: 0px;
+      }
+
+      .cls-23 {
+        font-family: Helvetica, Helvetica;
+      }
+
+      .cls-23, .cls-24 {
+        fill: #000;
+        font-size: 10px;
+      }
+
+      .cls-23, .cls-24, .cls-25 {
+        isolation: isolate;
+      }
+
+      .cls-26 {
+        letter-spacing: -.09em;
+      }
+
+      .cls-2, .cls-6 {
+        stroke: #e0f3a1;
+      }
+
+      .cls-3, .cls-5 {
+        stroke: #9e0142;
+      }
+
+      .cls-24 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-17 {
+        fill: #69bda9;
+      }
+
+      .cls-4 {
+        stroke: #fff;
+      }
+
+      .cls-18 {
+        fill: #5e4fa2;
+      }
+
+      .cls-19 {
+        fill: #f0704a;
+      }
+
+      .cls-15, .cls-27, .cls-28, .cls-21 {
+        fill: #fff;
+      }
+
+      .cls-7, .cls-9, .cls-28 {
+        stroke: #5e4fa2;
+      }
+
+      .cls-8, .cls-10, .cls-27 {
+        stroke: #f0704a;
+      }
+
+      .cls-25 {
+        fill: #7b7b7b;
+        font-family: Arial-BoldMT, Arial;
+        font-size: 12px;
+        font-weight: 700;
+      }
+
+      .cls-11 {
+        stroke: #000;
+      }
+
+      .cls-13, .cls-14 {
+        stroke: #69bda9;
+      }
+
+      .cls-20 {
+        fill: #e0f3a1;
+      }
+
+      .cls-22 {
+        fill: #9e0142;
+      }
+    </style>
+  </defs>
+  <rect id="background" class="cls-21" width="805" height="600"/>
+  <g id="viz">
+    <g id="y_axis" data-name="y axis">
+      <path class="cls-11" d="M44,570h6V10h-6"/>
+      <g>
+        <line class="cls-11" x1="50" y1="570" x2="44" y2="570"/>
+        <text class="cls-23" transform="translate(27.1 573.2)"><tspan x="0" y="0">4.0</tspan></text>
+      </g>
+      <g>
+        <line class="cls-11" x1="50" y1="532.67" x2="44" y2="532.67"/>
+        <text class="cls-23" transform="translate(27.1 535.87)"><tspan x="0" y="0">4.2</tspan></text>
+      </g>
+      <g>
+        <line class="cls-11" x1="50" y1="495.33" x2="44" y2="495.33"/>
+        <text class="cls-23" transform="translate(27.1 498.53)"><tspan x="0" y="0">4.4</tspan></text>
+      </g>
+      <g>
+        <line class="cls-11" x1="50" y1="458" x2="44" y2="458"/>
+        <text class="cls-23" transform="translate(27.1 461.2)"><tspan x="0" y="0">4.6</tspan></text>
+      </g>
+      <g>
+        <line class="cls-11" x1="50" y1="420.67" x2="44" y2="420.67"/>
+        <text class="cls-23" transform="translate(27.1 423.87)"><tspan x="0" y="0">4.8</tspan></text>
+      </g>
+      <g>
+        <line class="cls-11" x1="50" y1="383.33" x2="44" y2="383.33"/>
+        <text class="cls-23" transform="translate(27.1 386.53)"><tspan x="0" y="0">5.0</tspan></text>
+      </g>
+      <g>
+        <line class="cls-11" x1="50" y1="346" x2="44" y2="346"/>
+        <text class="cls-23" transform="translate(27.1 349.2)"><tspan x="0" y="0">5.2</tspan></text>
+      </g>
+      <g>
+        <line class="cls-11" x1="50" y1="308.67" x2="44" y2="308.67"/>
+        <text class="cls-23" transform="translate(27.1 311.87)"><tspan x="0" y="0">5.4</tspan></text>
+      </g>
+      <g>
+        <line class="cls-11" x1="50" y1="271.33" x2="44" y2="271.33"/>
+        <text class="cls-23" transform="translate(27.1 274.53)"><tspan x="0" y="0">5.6</tspan></text>
+      </g>
+      <g>
+        <line class="cls-11" x1="50" y1="234" x2="44" y2="234"/>
+        <text class="cls-23" transform="translate(27.1 237.2)"><tspan x="0" y="0">5.8</tspan></text>
+      </g>
+      <g>
+        <line class="cls-11" x1="50" y1="196.67" x2="44" y2="196.67"/>
+        <text class="cls-23" transform="translate(27.1 199.87)"><tspan x="0" y="0">6.0</tspan></text>
+      </g>
+      <g>
+        <line class="cls-11" x1="50" y1="159.33" x2="44" y2="159.33"/>
+        <text class="cls-23" transform="translate(27.1 162.53)"><tspan x="0" y="0">6.2</tspan></text>
+      </g>
+      <g>
+        <line class="cls-11" x1="50" y1="122" x2="44" y2="122"/>
+        <text class="cls-23" transform="translate(27.1 125.2)"><tspan x="0" y="0">6.4</tspan></text>
+      </g>
+      <g>
+        <line class="cls-11" x1="50" y1="84.67" x2="44" y2="84.67"/>
+        <text class="cls-23" transform="translate(27.1 87.87)"><tspan x="0" y="0">6.6</tspan></text>
+      </g>
+      <g>
+        <line class="cls-11" x1="50" y1="47.33" x2="44" y2="47.33"/>
+        <text class="cls-23" transform="translate(27.1 50.53)"><tspan x="0" y="0">6.8</tspan></text>
+      </g>
+      <g>
+        <line class="cls-11" x1="50" y1="10" x2="44" y2="10"/>
+        <text class="cls-23" transform="translate(27.1 13.2)"><tspan x="0" y="0">7.0</tspan></text>
+      </g>
+      <text class="cls-25" transform="translate(54 20.29)"><tspan x="0" y="0">nota_proyecto</tspan></text>
+    </g>
+    <g id="x_axis" data-name="x axis">
+      <path class="cls-11" d="M50,576v-6h745v6"/>
+      <g>
+        <line class="cls-11" x1="113" y1="570" x2="113" y2="576"/>
+        <text class="cls-23" transform="translate(77.9 586.67)"><tspan x="0" y="0">Diseñadora </tspan><tspan class="cls-26" x="53.92" y="0">V</tspan><tspan x="59.67" y="0">.M</tspan></text>
+      </g>
+      <g>
+        <line class="cls-11" x1="237" y1="570" x2="237" y2="576"/>
+        <text class="cls-23" transform="translate(211.43 586.1)"><tspan x="0" y="0">Diseñadora</tspan></text>
+      </g>
+      <g>
+        <line class="cls-11" x1="361" y1="570" x2="361" y2="576"/>
+        <text class="cls-23" transform="translate(328.02 586.86)"><tspan x="0" y="0">Diseñador I.S</tspan></text>
+      </g>
+      <g>
+        <line class="cls-11" x1="485" y1="570" x2="485" y2="576"/>
+        <text class="cls-23" transform="translate(451.44 586.67)"><tspan x="0" y="0">Diseñadora I.S</tspan></text>
+      </g>
+      <g>
+        <line class="cls-11" x1="609" y1="570" x2="609" y2="576"/>
+        <text class="cls-23" transform="translate(577.56 586.29)"><tspan x="0" y="0">Diseñador </tspan><tspan class="cls-26" x="48.36" y="0">V</tspan><tspan x="54.11" y="0">.M</tspan></text>
+      </g>
+      <g>
+        <line class="cls-11" x1="733" y1="570" x2="733" y2="576"/>
+        <text class="cls-23" transform="translate(710.21 586.1)"><tspan x="0" y="0">Diseñador</tspan></text>
+      </g>
+    </g>
+    <g id="boxplots">
+      <g>
+        <line class="cls-9" x1="113" y1="10" x2="113" y2="546.67"/>
+        <line class="cls-7" x1="103" y1="10" x2="123" y2="10"/>
+        <line class="cls-7" x1="103" y1="546.67" x2="123" y2="546.67"/>
+        <rect class="cls-18" x="103" y="103.33" width="20" height="177.33"/>
+        <line class="cls-4" x1="103" y1="196.67" x2="123" y2="196.67"/>
+        <circle class="cls-28" cx="113" cy="570" r="1"/>
+        <circle class="cls-28" cx="113" cy="570" r="1"/>
+      </g>
+      <g>
+        <line class="cls-2" x1="237" y1="10" x2="237" y2="476.67"/>
+        <line class="cls-6" x1="227" y1="10" x2="247" y2="10"/>
+        <line class="cls-6" x1="227" y1="476.67" x2="247" y2="476.67"/>
+        <rect class="cls-20" x="227" y="75.33" width="20" height="186.67"/>
+        <line class="cls-4" x1="227" y1="196.67" x2="247" y2="196.67"/>
+      </g>
+      <g>
+        <line class="cls-10" x1="361" y1="52" x2="361" y2="388"/>
+        <line class="cls-8" x1="351" y1="52" x2="371" y2="52"/>
+        <line class="cls-8" x1="351" y1="388" x2="371" y2="388"/>
+        <rect class="cls-19" x="351" y="178" width="20" height="84"/>
+        <line class="cls-4" x1="351" y1="215.33" x2="371" y2="215.33"/>
+        <circle class="cls-27" cx="361" cy="476.67" r="1"/>
+        <circle class="cls-27" cx="361" cy="47.33" r="1"/>
+      </g>
+      <g>
+        <line class="cls-13" x1="485" y1="10" x2="485" y2="570"/>
+        <line class="cls-14" x1="475" y1="10" x2="495" y2="10"/>
+        <line class="cls-14" x1="475" y1="570" x2="495" y2="570"/>
+        <rect class="cls-17" x="475" y="75.33" width="20" height="214.67"/>
+        <line class="cls-4" x1="475" y1="196.67" x2="495" y2="196.67"/>
+      </g>
+      <g>
+        <line class="cls-1" x1="609" y1="103.33" x2="609" y2="430"/>
+        <line class="cls-12" x1="599" y1="103.33" x2="619" y2="103.33"/>
+        <line class="cls-12" x1="599" y1="430" x2="619" y2="430"/>
+        <rect class="cls-16" x="599" y="196.67" width="20" height="93.33"/>
+        <line class="cls-4" x1="599" y1="234" x2="619" y2="234"/>
+        <circle class="cls-15" cx="609" cy="476.67" r="1"/>
+        <circle class="cls-15" cx="609" cy="476.67" r="1"/>
+        <circle class="cls-15" cx="609" cy="570" r="1"/>
+      </g>
+      <g>
+        <line class="cls-3" x1="733" y1="10" x2="733" y2="439.33"/>
+        <line class="cls-5" x1="723" y1="10" x2="743" y2="10"/>
+        <line class="cls-5" x1="723" y1="439.33" x2="743" y2="439.33"/>
+        <rect class="cls-22" x="723" y="159.33" width="20" height="130.67"/>
+        <line class="cls-4" x1="723" y1="196.67" x2="743" y2="196.67"/>
+      </g>
+    </g>
+    <g id="boxplots-2" data-name="boxplots">
+      <g>
+        <text class="cls-24" transform="translate(127 10)"><tspan x="0" y="0">7</tspan></text>
+        <text class="cls-24" transform="translate(127 546.67)"><tspan x="0" y="0">4.125</tspan></text>
+        <text class="cls-24" transform="translate(127 196.67)"><tspan x="0" y="0">6</tspan></text>
+        <text class="cls-24" transform="translate(79.54 280.67)"><tspan x="0" y="0">5.55</tspan></text>
+        <text class="cls-24" transform="translate(95.1 103.33)"><tspan x="0" y="0">6.5</tspan></text>
+      </g>
+      <g>
+        <text class="cls-24" transform="translate(251 10)"><tspan x="0" y="0">7</tspan></text>
+        <text class="cls-24" transform="translate(251 476.67)"><tspan x="0" y="0">4.5</tspan></text>
+        <text class="cls-24" transform="translate(251 196.67)"><tspan x="0" y="0">6</tspan></text>
+        <text class="cls-24" transform="translate(203.54 262)"><tspan x="0" y="0">5.65</tspan></text>
+        <text class="cls-24" transform="translate(213.54 75.33)"><tspan x="0" y="0">6.65</tspan></text>
+      </g>
+      <g>
+        <text class="cls-24" transform="translate(375 52)"><tspan x="0" y="0">6.774999999999999</tspan></text>
+        <text class="cls-24" transform="translate(375 388)"><tspan x="0" y="0">4.975000000000001</tspan></text>
+        <text class="cls-24" transform="translate(375 215.33)"><tspan x="0" y="0">5.9</tspan></text>
+        <text class="cls-24" transform="translate(327.54 262)"><tspan x="0" y="0">5.65</tspan></text>
+        <text class="cls-24" transform="translate(343.1 178)"><tspan x="0" y="0">6.1</tspan></text>
+      </g>
+      <g>
+        <text class="cls-24" transform="translate(499 10)"><tspan x="0" y="0">7</tspan></text>
+        <text class="cls-24" transform="translate(499 570)"><tspan x="0" y="0">4</tspan></text>
+        <text class="cls-24" transform="translate(499 196.67)"><tspan x="0" y="0">6</tspan></text>
+        <text class="cls-24" transform="translate(457.1 290)"><tspan x="0" y="0">5.5</tspan></text>
+        <text class="cls-24" transform="translate(461.54 75.33)"><tspan x="0" y="0">6.65</tspan></text>
+      </g>
+      <g>
+        <text class="cls-24" transform="translate(623 103.33)"><tspan x="0" y="0">6.5</tspan></text>
+        <text class="cls-24" transform="translate(623 430)"><tspan x="0" y="0">4.75</tspan></text>
+        <text class="cls-24" transform="translate(623 234)"><tspan x="0" y="0">5.8</tspan></text>
+        <text class="cls-24" transform="translate(581.1 290)"><tspan x="0" y="0">5.5</tspan></text>
+        <text class="cls-24" transform="translate(599.44 196.67)"><tspan x="0" y="0">6</tspan></text>
+      </g>
+      <g>
+        <text class="cls-24" transform="translate(747 10)"><tspan x="0" y="0">7</tspan></text>
+        <text class="cls-24" transform="translate(747 439.33)"><tspan x="0" y="0">4.7</tspan></text>
+        <text class="cls-24" transform="translate(747 196.67)"><tspan x="0" y="0">6</tspan></text>
+        <text class="cls-24" transform="translate(705.1 290)"><tspan x="0" y="0">5.5</tspan></text>
+        <text class="cls-24" transform="translate(715.1 159.33)"><tspan x="0" y="0">6.2</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

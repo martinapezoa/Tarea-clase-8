@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 805 600">
+  <rect id="background" width="805" height="600" style="fill: #fff; stroke-width: 0px;"/>
+  <g id="viz">
+    <g id="y_axis" data-name="y axis">
+      <path d="M44,570h6V10h-6" style="fill: none; stroke: #000;"/>
+      <g>
+        <line x1="50" y1="570" x2="44" y2="570" style="fill: none; stroke: #000;"/>
+        <text transform="translate(27.1 573.2)" style="fill: #000; font-family: Helvetica, Helvetica; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">4.0</tspan></text>
+      </g>
+      <g>
+        <line x1="50" y1="532.67" x2="44" y2="532.67" style="fill: none; stroke: #000;"/>
+        <text transform="translate(27.1 535.87)" style="fill: #000; font-family: Helvetica, Helvetica; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">4.2</tspan></text>
+      </g>
+      <g>
+        <line x1="50" y1="495.33" x2="44" y2="495.33" style="fill: none; stroke: #000;"/>
+        <text transform="translate(27.1 498.53)" style="fill: #000; font-family: Helvetica, Helvetica; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">4.4</tspan></text>
+      </g>
+      <g>
+        <line x1="50" y1="458" x2="44" y2="458" style="fill: none; stroke: #000;"/>
+        <text transform="translate(27.1 461.2)" style="fill: #000; font-family: Helvetica, Helvetica; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">4.6</tspan></text>
+      </g>
+      <g>
+        <line x1="50" y1="420.67" x2="44" y2="420.67" style="fill: none; stroke: #000;"/>
+        <text transform="translate(27.1 423.87)" style="fill: #000; font-family: Helvetica, Helvetica; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">4.8</tspan></text>
+      </g>
+      <g>
+        <line x1="50" y1="383.33" x2="44" y2="383.33" style="fill: none; stroke: #000;"/>
+        <text transform="translate(27.1 386.53)" style="fill: #000; font-family: Helvetica, Helvetica; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">5.0</tspan></text>
+      </g>
+      <g>
+        <line x1="50" y1="346" x2="44" y2="346" style="fill: none; stroke: #000;"/>
+        <text transform="translate(27.1 349.2)" style="fill: #000; font-family: Helvetica, Helvetica; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">5.2</tspan></text>
+      </g>
+      <g>
+        <line x1="50" y1="308.67" x2="44" y2="308.67" style="fill: none; stroke: #000;"/>
+        <text transform="translate(27.1 311.87)" style="fill: #000; font-family: Helvetica, Helvetica; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">5.4</tspan></text>
+      </g>
+      <g>
+        <line x1="50" y1="271.33" x2="44" y2="271.33" style="fill: none; stroke: #000;"/>
+        <text transform="translate(27.1 274.53)" style="fill: #000; font-family: Helvetica, Helvetica; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">5.6</tspan></text>
+      </g>
+      <g>
+        <line x1="50" y1="234" x2="44" y2="234" style="fill: none; stroke: #000;"/>
+        <text transform="translate(27.1 237.2)" style="fill: #000; font-family: Helvetica, Helvetica; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">5.8</tspan></text>
+      </g>
+      <g>
+        <line x1="50" y1="196.67" x2="44" y2="196.67" style="fill: none; stroke: #000;"/>
+        <text transform="translate(27.1 199.87)" style="fill: #000; font-family: Helvetica, Helvetica; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">6.0</tspan></text>
+      </g>
+      <g>
+        <line x1="50" y1="159.33" x2="44" y2="159.33" style="fill: none; stroke: #000;"/>
+        <text transform="translate(27.1 162.53)" style="fill: #000; font-family: Helvetica, Helvetica; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">6.2</tspan></text>
+      </g>
+      <g>
+        <line x1="50" y1="122" x2="44" y2="122" style="fill: none; stroke: #000;"/>
+        <text transform="translate(27.1 125.2)" style="fill: #000; font-family: Helvetica, Helvetica; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">6.4</tspan></text>
+      </g>
+      <g>
+        <line x1="50" y1="84.67" x2="44" y2="84.67" style="fill: none; stroke: #000;"/>
+        <text transform="translate(27.1 87.87)" style="fill: #000; font-family: Helvetica, Helvetica; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">6.6</tspan></text>
+      </g>
+      <g>
+        <line x1="50" y1="47.33" x2="44" y2="47.33" style="fill: none; stroke: #000;"/>
+        <text transform="translate(27.1 50.53)" style="fill: #000; font-family: Helvetica, Helvetica; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">6.8</tspan></text>
+      </g>
+      <g>
+        <line x1="50" y1="10" x2="44" y2="10" style="fill: none; stroke: #000;"/>
+        <text transform="translate(27.1 13.2)" style="fill: #000; font-family: Helvetica, Helvetica; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">7.0</tspan></text>
+      </g>
+      <text transform="translate(54 20.29)" style="fill: #7b7b7b; font-family: Arial-BoldMT, Arial; font-size: 12px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">nota_proyecto</tspan></text>
+    </g>
+    <g id="x_axis" data-name="x axis">
+      <path d="M50,576v-6h745v6" style="fill: none; stroke: #000;"/>
+      <g>
+        <line x1="113" y1="570" x2="113" y2="576" style="fill: none; stroke: #000;"/>
+        <text transform="translate(77.9 586.67)" style="fill: #000; font-family: Helvetica, Helvetica; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">Diseñadora </tspan><tspan x="53.92" y="0" style="letter-spacing: -.09em;">V</tspan><tspan x="59.67" y="0">.M</tspan></text>
+      </g>
+      <g>
+        <line x1="237" y1="570" x2="237" y2="576" style="fill: none; stroke: #000;"/>
+        <text transform="translate(211.43 586.1)" style="fill: #000; font-family: Helvetica, Helvetica; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">Diseñadora</tspan></text>
+      </g>
+      <g>
+        <line x1="361" y1="570" x2="361" y2="576" style="fill: none; stroke: #000;"/>
+        <text transform="translate(328.02 586.86)" style="fill: #000; font-family: Helvetica, Helvetica; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">Diseñador I.S</tspan></text>
+      </g>
+      <g>
+        <line x1="485" y1="570" x2="485" y2="576" style="fill: none; stroke: #000;"/>
+        <text transform="translate(451.44 586.67)" style="fill: #000; font-family: Helvetica, Helvetica; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">Diseñadora I.S</tspan></text>
+      </g>
+      <g>
+        <line x1="609" y1="570" x2="609" y2="576" style="fill: none; stroke: #000;"/>
+        <text transform="translate(577.56 586.29)" style="fill: #000; font-family: Helvetica, Helvetica; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">Diseñador </tspan><tspan x="48.36" y="0" style="letter-spacing: -.09em;">V</tspan><tspan x="54.11" y="0">.M</tspan></text>
+      </g>
+      <g>
+        <line x1="733" y1="570" x2="733" y2="576" style="fill: none; stroke: #000;"/>
+        <text transform="translate(710.21 586.1)" style="fill: #000; font-family: Helvetica, Helvetica; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">Diseñador</tspan></text>
+      </g>
+    </g>
+    <g id="boxplots">
+      <g>
+        <line x1="113" y1="10" x2="113" y2="546.67" style="fill: none; stroke: #5e4fa2; stroke-dasharray: 0 4;"/>
+        <line x1="103" y1="10" x2="123" y2="10" style="fill: none; stroke: #5e4fa2;"/>
+        <line x1="103" y1="546.67" x2="123" y2="546.67" style="fill: none; stroke: #5e4fa2;"/>
+        <rect x="103" y="103.33" width="20" height="177.33" style="fill: #5e4fa2; stroke-width: 0px;"/>
+        <line x1="103" y1="196.67" x2="123" y2="196.67" style="fill: none; stroke: #fff;"/>
+        <circle cx="113" cy="570" r="1" style="fill: #fff; stroke: #5e4fa2;"/>
+        <circle cx="113" cy="570" r="1" style="fill: #fff; stroke: #5e4fa2;"/>
+      </g>
+      <g>
+        <line x1="237" y1="10" x2="237" y2="476.67" style="fill: none; stroke: #e0f3a1; stroke-dasharray: 0 4;"/>
+        <line x1="227" y1="10" x2="247" y2="10" style="fill: none; stroke: #e0f3a1;"/>
+        <line x1="227" y1="476.67" x2="247" y2="476.67" style="fill: none; stroke: #e0f3a1;"/>
+        <rect x="227" y="75.33" width="20" height="186.67" style="fill: #e0f3a1; stroke-width: 0px;"/>
+        <line x1="227" y1="196.67" x2="247" y2="196.67" style="fill: none; stroke: #fff;"/>
+      </g>
+      <g>
+        <line x1="361" y1="52" x2="361" y2="388" style="fill: none; stroke: #f0704a; stroke-dasharray: 0 4;"/>
+        <line x1="351" y1="52" x2="371" y2="52" style="fill: none; stroke: #f0704a;"/>
+        <line x1="351" y1="388" x2="371" y2="388" style="fill: none; stroke: #f0704a;"/>
+        <rect x="351" y="178" width="20" height="84" style="fill: #f0704a; stroke-width: 0px;"/>
+        <line x1="351" y1="215.33" x2="371" y2="215.33" style="fill: none; stroke: #fff;"/>
+        <circle cx="361" cy="476.67" r="1" style="fill: #fff; stroke: #f0704a;"/>
+        <circle cx="361" cy="47.33" r="1" style="fill: #fff; stroke: #f0704a;"/>
+      </g>
+      <g>
+        <line x1="485" y1="10" x2="485" y2="570" style="fill: none; stroke: #69bda9; stroke-dasharray: 0 4;"/>
+        <line x1="475" y1="10" x2="495" y2="10" style="fill: none; stroke: #69bda9;"/>
+        <line x1="475" y1="570" x2="495" y2="570" style="fill: none; stroke: #69bda9;"/>
+        <rect x="475" y="75.33" width="20" height="214.67" style="fill: #69bda9; stroke-width: 0px;"/>
+        <line x1="475" y1="196.67" x2="495" y2="196.67" style="fill: none; stroke: #fff;"/>
+      </g>
+      <g>
+        <line x1="609" y1="103.33" x2="609" y2="430" style="fill: none; stroke: #fedd8d; stroke-dasharray: 0 4;"/>
+        <line x1="599" y1="103.33" x2="619" y2="103.33" style="fill: none; stroke: #fedd8d;"/>
+        <line x1="599" y1="430" x2="619" y2="430" style="fill: none; stroke: #fedd8d;"/>
+        <rect x="599" y="196.67" width="20" height="93.33" style="fill: #fedd8d; stroke-width: 0px;"/>
+        <line x1="599" y1="234" x2="619" y2="234" style="fill: none; stroke: #fff;"/>
+        <circle cx="609" cy="476.67" r="1" style="fill: #fff; stroke: #fedd8d;"/>
+        <circle cx="609" cy="476.67" r="1" style="fill: #fff; stroke: #fedd8d;"/>
+        <circle cx="609" cy="570" r="1" style="fill: #fff; stroke: #fedd8d;"/>
+      </g>
+      <g>
+        <line x1="733" y1="10" x2="733" y2="439.33" style="fill: none; stroke: #9e0142; stroke-dasharray: 0 4;"/>
+        <line x1="723" y1="10" x2="743" y2="10" style="fill: none; stroke: #9e0142;"/>
+        <line x1="723" y1="439.33" x2="743" y2="439.33" style="fill: none; stroke: #9e0142;"/>
+        <rect x="723" y="159.33" width="20" height="130.67" style="fill: #9e0142; stroke-width: 0px;"/>
+        <line x1="723" y1="196.67" x2="743" y2="196.67" style="fill: none; stroke: #fff;"/>
+      </g>
+    </g>
+    <g id="boxplots-2" data-name="boxplots">
+      <g>
+        <text transform="translate(127 10)" style="fill: #000; font-family: ArialMT, Arial; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">7</tspan></text>
+        <text transform="translate(127 546.67)" style="fill: #000; font-family: ArialMT, Arial; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">4.125</tspan></text>
+        <text transform="translate(127 196.67)" style="fill: #000; font-family: ArialMT, Arial; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">6</tspan></text>
+        <text transform="translate(79.54 280.67)" style="fill: #000; font-family: ArialMT, Arial; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">5.55</tspan></text>
+        <text transform="translate(95.1 103.33)" style="fill: #000; font-family: ArialMT, Arial; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">6.5</tspan></text>
+      </g>
+      <g>
+        <text transform="translate(251 10)" style="fill: #000; font-family: ArialMT, Arial; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">7</tspan></text>
+        <text transform="translate(251 476.67)" style="fill: #000; font-family: ArialMT, Arial; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">4.5</tspan></text>
+        <text transform="translate(251 196.67)" style="fill: #000; font-family: ArialMT, Arial; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">6</tspan></text>
+        <text transform="translate(203.54 262)" style="fill: #000; font-family: ArialMT, Arial; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">5.65</tspan></text>
+        <text transform="translate(213.54 75.33)" style="fill: #000; font-family: ArialMT, Arial; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">6.65</tspan></text>
+      </g>
+      <g>
+        <text transform="translate(375 52)" style="fill: #000; font-family: ArialMT, Arial; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">6.774999999999999</tspan></text>
+        <text transform="translate(375 388)" style="fill: #000; font-family: ArialMT, Arial; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">4.975000000000001</tspan></text>
+        <text transform="translate(375 215.33)" style="fill: #000; font-family: ArialMT, Arial; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">5.9</tspan></text>
+        <text transform="translate(327.54 262)" style="fill: #000; font-family: ArialMT, Arial; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">5.65</tspan></text>
+        <text transform="translate(343.1 178)" style="fill: #000; font-family: ArialMT, Arial; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">6.1</tspan></text>
+      </g>
+      <g>
+        <text transform="translate(499 10)" style="fill: #000; font-family: ArialMT, Arial; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">7</tspan></text>
+        <text transform="translate(499 570)" style="fill: #000; font-family: ArialMT, Arial; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">4</tspan></text>
+        <text transform="translate(499 196.67)" style="fill: #000; font-family: ArialMT, Arial; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">6</tspan></text>
+        <text transform="translate(457.1 290)" style="fill: #000; font-family: ArialMT, Arial; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">5.5</tspan></text>
+        <text transform="translate(461.54 75.33)" style="fill: #000; font-family: ArialMT, Arial; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">6.65</tspan></text>
+      </g>
+      <g>
+        <text transform="translate(623 103.33)" style="fill: #000; font-family: ArialMT, Arial; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">6.5</tspan></text>
+        <text transform="translate(623 430)" style="fill: #000; font-family: ArialMT, Arial; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">4.75</tspan></text>
+        <text transform="translate(623 234)" style="fill: #000; font-family: ArialMT, Arial; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">5.8</tspan></text>
+        <text transform="translate(581.1 290)" style="fill: #000; font-family: ArialMT, Arial; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">5.5</tspan></text>
+        <text transform="translate(599.44 196.67)" style="fill: #000; font-family: ArialMT, Arial; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">6</tspan></text>
+      </g>
+      <g>
+        <text transform="translate(747 10)" style="fill: #000; font-family: ArialMT, Arial; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">7</tspan></text>
+        <text transform="translate(747 439.33)" style="fill: #000; font-family: ArialMT, Arial; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">4.7</tspan></text>
+        <text transform="translate(747 196.67)" style="fill: #000; font-family: ArialMT, Arial; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">6</tspan></text>
+        <text transform="translate(705.1 290)" style="fill: #000; font-family: ArialMT, Arial; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">5.5</tspan></text>
+        <text transform="translate(715.1 159.33)" style="fill: #000; font-family: ArialMT, Arial; font-size: 10px; isolation: isolate;"><tspan x="0" y="0">6.2</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
