@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 713.18 558.088">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-2 {
+        fill: #2ca02c;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-7 {
+        letter-spacing: .004em;
+      }
+
+      .cls-3 {
+        fill: #ff7f0e;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.003em;
+      }
+
+      .cls-4, .cls-10, .cls-11 {
+        fill: #000;
+      }
+
+      .cls-12 {
+        letter-spacing: -.036em;
+      }
+
+      .cls-13 {
+        letter-spacing: -.074em;
+      }
+
+      .cls-14 {
+        letter-spacing: -.055em;
+      }
+
+      .cls-5 {
+        fill: #1f77b4;
+      }
+
+      .cls-15 {
+        fill: none;
+        stroke: #000;
+      }
+
+      .cls-10 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 12px;
+      }
+
+      .cls-16 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-17 {
+        fill: #7b7b7b;
+        font-family: Arial-BoldMT, Arial;
+        font-size: 10.631px;
+        font-weight: 700;
+      }
+
+      .cls-17, .cls-11 {
+        isolation: isolate;
+      }
+
+      .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-11 {
+        font-family: Helvetica, Helvetica;
+        font-size: 8.859px;
+      }
+    </style>
+  </defs>
+  <rect id="background" class="cls-6" width="713.18" height="531.562"/>
+  <g>
+    <g id="Reprueban">
+      <rect class="cls-4" x="45.182" y="414.619" width="93.278" height="99.225"/>
+      <rect class="cls-4" x="139.344" y="384.088" width="93.278" height="129.756"/>
+      <rect class="cls-4" x="233.507" y="288.679" width="93.278" height="225.164"/>
+      <rect class="cls-4" x="327.67" y="334.475" width="93.278" height="179.368"/>
+      <rect class="cls-4" x="421.832" y="349.741" width="93.278" height="164.103"/>
+      <rect class="cls-4" x="515.995" y="433.7" width="93.278" height="80.143"/>
+      <rect class="cls-4" x="610.158" y="319.21" width="93.278" height="194.634"/>
+    </g>
+    <g id="Aprueban_Visualidad_y_Medios" data-name="Aprueban Visualidad y Medios">
+      <rect class="cls-2" x="45.182" y="406.986" width="93.278" height="7.633"/>
+      <rect class="cls-2" x="139.344" y="361.19" width="93.278" height="22.898"/>
+      <rect class="cls-2" x="233.507" y="265.781" width="93.278" height="22.898"/>
+      <rect class="cls-2" x="327.67" y="277.23" width="93.278" height="57.245"/>
+      <rect class="cls-2" x="421.832" y="235.25" width="93.278" height="114.49"/>
+      <rect class="cls-2" x="515.995" y="330.659" width="93.278" height="103.041"/>
+      <rect class="cls-2" x="610.158" y="178.005" width="93.278" height="141.205"/>
+    </g>
+    <g id="Aprueban_Diseñadores" data-name="Aprueban Diseñadores">
+      <rect class="cls-5" x="45.182" y="403.17" width="93.278" height="3.816"/>
+      <rect class="cls-5" x="327.67" y="261.965" width="93.278" height="15.265"/>
+      <rect class="cls-5" x="421.832" y="208.536" width="93.278" height="26.714"/>
+      <rect class="cls-5" x="515.995" y="315.394" width="93.278" height="15.265"/>
+      <rect class="cls-5" x="610.158" y="147.474" width="93.278" height="30.531"/>
+    </g>
+    <g id="Aprueban_Industrial_y_Servicios" data-name="Aprueban Industrial y Servicios">
+      <rect class="cls-3" x="139.344" y="342.108" width="93.278" height="19.082"/>
+      <rect class="cls-3" x="233.507" y="246.699" width="93.278" height="19.082"/>
+      <rect class="cls-3" x="327.67" y="227.618" width="93.278" height="34.347"/>
+      <rect class="cls-3" x="421.832" y="105.495" width="93.278" height="103.041"/>
+      <rect class="cls-3" x="515.995" y="258.149" width="93.278" height="57.245"/>
+      <rect class="cls-3" x="610.158" y="36.8" width="93.278" height="110.674"/>
+    </g>
+    <g id="xAxis">
+      <path class="cls-15" d="M44.297,513.844h660.023"/>
+      <g>
+        <line class="cls-15" x1="91.821" y1="513.844" x2="91.821" y2="519.159"/>
+        <text class="cls-11" transform="translate(78.028 528.107)"><tspan x="0" y="0">2021-2</tspan></text>
+      </g>
+      <g>
+        <line class="cls-15" x1="185.983" y1="513.844" x2="185.983" y2="519.159"/>
+        <text class="cls-11" transform="translate(172.19 528.107)"><tspan x="0" y="0">2022-1</tspan></text>
+      </g>
+      <g>
+        <line class="cls-15" x1="280.146" y1="513.844" x2="280.146" y2="519.159"/>
+        <text class="cls-11" transform="translate(266.353 528.107)"><tspan x="0" y="0">2022-2</tspan></text>
+      </g>
+      <g>
+        <line class="cls-15" x1="374.309" y1="513.844" x2="374.309" y2="519.159"/>
+        <text class="cls-11" transform="translate(360.516 528.107)"><tspan x="0" y="0">2023-1</tspan></text>
+      </g>
+      <g>
+        <line class="cls-15" x1="468.471" y1="513.844" x2="468.471" y2="519.159"/>
+        <text class="cls-11" transform="translate(454.679 528.107)"><tspan x="0" y="0">2023-2</tspan></text>
+      </g>
+      <g>
+        <line class="cls-15" x1="562.634" y1="513.844" x2="562.634" y2="519.159"/>
+        <text class="cls-11" transform="translate(548.841 528.107)"><tspan x="0" y="0">2024-1</tspan></text>
+      </g>
+      <g>
+        <line class="cls-15" x1="656.797" y1="513.844" x2="656.797" y2="519.159"/>
+        <text class="cls-11" transform="translate(643.004 528.107)"><tspan x="0" y="0">2024-2</tspan></text>
+      </g>
+    </g>
+    <g id="yAxis">
+      <path class="cls-15" d="M44.297,513.844V17.719"/>
+      <g>
+        <line class="cls-15" x1="44.297" y1="513.844" x2="38.981" y2="513.844"/>
+        <text class="cls-11" transform="translate(31.396 516.678)"><tspan x="0" y="0">0</tspan></text>
+      </g>
+      <g>
+        <line class="cls-15" x1="44.297" y1="475.68" x2="38.981" y2="475.68"/>
+        <text class="cls-11" transform="translate(26.469 478.515)"><tspan x="0" y="0">10</tspan></text>
+      </g>
+      <g>
+        <line class="cls-15" x1="44.297" y1="437.517" x2="38.981" y2="437.517"/>
+        <text class="cls-11" transform="translate(26.469 440.352)"><tspan x="0" y="0">20</tspan></text>
+      </g>
+      <g>
+        <line class="cls-15" x1="44.297" y1="399.353" x2="38.981" y2="399.353"/>
+        <text class="cls-11" transform="translate(26.469 402.188)"><tspan x="0" y="0">30</tspan></text>
+      </g>
+      <g>
+        <line class="cls-15" x1="44.297" y1="361.19" x2="38.981" y2="361.19"/>
+        <text class="cls-11" transform="translate(26.469 364.025)"><tspan x="0" y="0">40</tspan></text>
+      </g>
+      <g>
+        <line class="cls-15" x1="44.297" y1="323.026" x2="38.981" y2="323.026"/>
+        <text class="cls-11" transform="translate(26.469 325.861)"><tspan x="0" y="0">50</tspan></text>
+      </g>
+      <g>
+        <line class="cls-15" x1="44.297" y1="284.863" x2="38.981" y2="284.863"/>
+        <text class="cls-11" transform="translate(26.469 287.698)"><tspan x="0" y="0">60</tspan></text>
+      </g>
+      <g>
+        <line class="cls-15" x1="44.297" y1="246.699" x2="38.981" y2="246.699"/>
+        <text class="cls-11" transform="translate(26.469 249.535)"><tspan x="0" y="0">70</tspan></text>
+      </g>
+      <g>
+        <line class="cls-15" x1="44.297" y1="208.536" x2="38.981" y2="208.536"/>
+        <text class="cls-11" transform="translate(26.469 211.371)"><tspan x="0" y="0">80</tspan></text>
+      </g>
+      <g>
+        <line class="cls-15" x1="44.297" y1="170.373" x2="38.981" y2="170.373"/>
+        <text class="cls-11" transform="translate(26.469 173.208)"><tspan x="0" y="0">90</tspan></text>
+      </g>
+      <g>
+        <line class="cls-15" x1="44.297" y1="132.209" x2="38.981" y2="132.209"/>
+        <text class="cls-11" transform="translate(21.542 135.044)"><tspan x="0" y="0">100</tspan></text>
+      </g>
+      <g>
+        <line class="cls-15" x1="44.297" y1="94.046" x2="38.981" y2="94.046"/>
+        <text class="cls-11" transform="translate(22.195 96.881)"><tspan class="cls-13" x="0" y="0">1</tspan><tspan x="4.274" y="0">10</tspan></text>
+      </g>
+      <g>
+        <line class="cls-15" x1="44.297" y1="55.882" x2="38.981" y2="55.882"/>
+        <text class="cls-11" transform="translate(21.542 58.718)"><tspan x="0" y="0">120</tspan></text>
+      </g>
+      <g>
+        <line class="cls-15" x1="44.297" y1="17.719" x2="38.981" y2="17.719"/>
+        <text class="cls-11" transform="translate(21.542 20.554)"><tspan x="0" y="0">130</tspan></text>
+      </g>
+    </g>
+    <text class="cls-17" transform="translate(656.448 510.301)"><tspan x="0" y="0">Semestre</tspan></text>
+  </g>
+  <text class="cls-10" transform="translate(62.593 553.607)"><tspan class="cls-7" x="0" y="0">R</tspan><tspan x="6.504" y="0">ep</tspan><tspan class="cls-16" x="19.343" y="0">r</tspan><tspan x="23.147" y="0">obados</tspan></text>
+  <rect class="cls-4" x="44.297" y="543.897" width="12.916" height="12.916"/>
+  <text class="cls-10" transform="translate(157.641 554.202)"><tspan class="cls-9" x="0" y="0">A</tspan><tspan class="cls-8" x="7.308" y="0">p</tspan><tspan class="cls-1" x="14.136" y="0">r</tspan><tspan x="17.94" y="0">obados Diseño</tspan><tspan class="cls-12" x="92.603" y="0"> </tspan><tspan class="cls-14" x="94.714" y="0">V</tspan><tspan x="100.75" y="0">.M</tspan></text>
+  <rect class="cls-2" x="139.344" y="544.492" width="12.916" height="12.916"/>
+  <text class="cls-10" transform="translate(298.442 553.267)"><tspan x="0" y="0">Diseño</tspan></text>
+  <rect class="cls-5" x="280.146" y="543.557" width="12.916" height="12.916"/>
+  <text class="cls-10" transform="translate(362.707 552.927)"><tspan x="0" y="0">Diseño I.S</tspan></text>
+  <rect class="cls-3" x="344.411" y="543.217" width="12.916" height="12.916"/>
+</svg>
